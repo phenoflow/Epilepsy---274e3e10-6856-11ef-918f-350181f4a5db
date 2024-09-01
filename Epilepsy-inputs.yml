@@ -1,0 +1,45 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/epilepsy-generalized---icduncat.py
+inputModule3:
+  class: File
+  path: python/epilepsy-petit---icduncat.py
+inputModule4:
+  class: File
+  path: python/epilepsy---icduncat.py
+inputModule5:
+  class: File
+  path: python/complex-epilepsy---icduncat.py
+inputModule6:
+  class: File
+  path: python/simple-epilepsy---icduncat.py
+inputModule7:
+  class: File
+  path: python/partial-epilepsy---icduncat.py
+inputModule8:
+  class: File
+  path: python/recurrent-epilepsy---icduncat.py
+inputModule9:
+  class: File
+  path: python/epilepsy-unspecified---icduncat.py
+inputModule10:
+  class: File
+  path: python/idiopathic-epilepsy---icduncat.py
+inputModule11:
+  class: File
+  path: python/symptomatic-epilepsy---icduncat.py
+inputModule12:
+  class: File
+  path: python/epileptic-epilepsy---icduncat.py
+inputModule13:
+  class: File
+  path: python/other-epilepsy---icduncat.py
+inputModule14:
+  class: File
+  path: python/epilepsy-localizationrelated---icduncat.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
